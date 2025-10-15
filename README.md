@@ -28,7 +28,7 @@ A aplicação é um **site portfólio**, onde pude aprofundar meus conhecimentos
 ---
 
 ## 📁 Estrutura do Projeto / Project Structure
-📂 aula-html/
+📂 C:\Site\
 ┣ 🖼️ 0-background.jpg
 ┣ 🖼️ 1-person.png
 ┣ 📜 index.html
