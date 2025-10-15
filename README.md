@@ -42,7 +42,7 @@ A aplicação é um **site portfólio**, onde pude aprofundar meus conhecimentos
 Todo o conteúdo deste código foi baseado em aulas do canal **@Codehal** no YouTube.  
 O projeto foi desenvolvido **passo a passo para fins educacionais**, respeitando os direitos autorais do material original.
 
-## 🖼️ Imagem do Projeto
+## 🖼️ Imagens do Projeto / Project Images
  Início:
 
 ![alt text](home.png)
